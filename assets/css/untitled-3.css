@@ -1,0 +1,15 @@
+.header-button-hover {
+  background: #ffcc1e;
+  font-size: 200px;
+}
+
+button:hover {
+  /*background-color: #ffcc1e !important;*/
+}
+
+@media (min-width: 500px) {
+  hero h1 {
+    font-size: 10px;
+  }
+}
+
