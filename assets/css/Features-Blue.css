@@ -81,3 +81,73 @@
 .card-item {
 }
 
+@media (max-width: 370px) {
+  .testimonial {
+    width: 200px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .testimonial {
+    width: 500px !important;
+  }
+}
+
+@media (max-width: 992px) {
+  .testimonial {
+    width: 400px !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .testimonial {
+    width: 320px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .subscribe_to_group {
+    margin: 0px 20px !important;
+  }
+}
+
+.center {
+  text-align: center;
+}
+
+@media (max-width: 1200px) {
+  .advantage {
+    width: 580px !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  .advantage {
+    width: 580px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .about_me {
+    width: 325px !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .about_me__lead {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+  }
+}
+
+@media (max-width: 360px) {
+  .about_me__lead__name {
+    margin-left: 0px !important;
+  }
+}
+
+.about_me {
+}
+
